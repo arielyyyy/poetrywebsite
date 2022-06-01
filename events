@@ -1,0 +1,155 @@
+<!doctype HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ariel yelen</title>
+<style>
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+	
+h1, h2, h3, h4, h5 {font-weight: normal !important;}
+	
+code {color: blue;}
+	
+ul li, ol li {margin: 5px 0;}
+	
+body {
+	padding: 0; 
+	background-color: white; 
+	font-family: monospace;
+}
+nav {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	left: 0;
+	z-index: 2;
+	padding: 6px;
+}
+	
+a {
+	color: black;
+	padding: 0px;
+	}
+
+a:hover {
+  	color: aqua;
+}
+
+a:active {
+  	color: hotpink;
+}
+	
+.name {
+  font-size: 1em;
+  text-decoration: none;
+}
+.list {
+	max-width: 2000px;
+	margin: 0px;
+	text-align: left;
+	width: 100%;
+	padding: 0px;
+	padding-top: 15px;
+	display: block;
+
+}
+.list img {
+	display: block;
+	width: 100%;
+}
+.list h3 {
+	font-size: 2em;
+}
+
+.list small {
+	display: block;
+	margin-top: 12px;
+	margin-bottom: 20px;
+	color: chartreuse;
+	background color: yellow;
+}
+.backtotop {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background: white;
+	left:  0;
+	right: 0;
+	text-align: center;
+	padding:  8px;
+	text-decoration: none;
+	} 
+</style>
+
+</head>
+<body>
+	<nav>
+	<a href="index.html" class="name">Ariel Yelen</a>
+	<br>
+	<a href="poems.html">poems</a>
+	<a href="other-writing.html">other writing</a>
+	<a href="more-other-writing.html">more other writing</a>
+	<a href="about.html">about me</a>
+	<a href="contact.html">contact</a> 
+	</nav>
+
+	
+	
+	
+ 	<div class="frame top"></div>
+	<div class="frame left"></div>
+	<div class="frame right"></div>
+
+	<section class="list">
+		<h3></h3>
+		<br>
+		<b>Selected Poems</b><br><br>
+
+		<a href="http://unnameablebooks.blogspot.com/">Reading @ Unnamable Books</a>
+		<small>w/ Phoebe Glick, </small>
+	
+		<a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://static1.squarespace.com/static/5f8cebb5d68d7f05262530f6/t/61ca3fff73b8092bc685daf6/1640644607553/Nomaterialism_Ariel_Yelen.pdf">Nomaterialism</a>
+		<small>Six Poems</small>
+		
+		<a href="https://uglyducklingpresse.org/publications/second-factory-issue-three/">Second Factory</a>
+		<small>New Year Poem with Green Flooding</small>
+		
+		<a href="https://changes.press/revolution/">Changes Review</a>
+		<small>Revolution</small>
+		
+		<a href="https://www.washingtonsquarereview.com/ariel-yelen">Washington Square Review</a>
+		<small>The Dynamic of Moving a Tree Stump</small>
+		
+		<a href="https://bombmagazine.org/articles/ariel-yelen-poems/"target="_blank">BOMB Magazine Online</a>
+		<small>I Was Working & Other Poems</small>
+		
+		<a href="/>https://www.aprweb.org/issue-index/2019-january-february"target="_blank">The American Poetry Review</a>
+		<small>16' x 20', 2021</small>
+		
+		<img src="FullSizeRender test.jpg" alt=""/>
+		<small>10' x 10', 2021</small>
+		
+		<img src="painting 2-4-test.jpg" alt=""/>
+		<small>12' x 12', 2021</small>
+		
+		<img src="4:5may17.jpg" alt=""/>
+		<small>12' x 12', 2021</small>
+		
+		<img src="1299may17.jpg" alt=""/>
+		<small>12' x 12', 2021</small>
+		
+		<img src="999may17.jpg" alt=""/>
+		<small>12' x 12', 2020</small>
+		
+		<img src="two.jpg" alt=""/>
+		<small>12' x 12', 2021</small>
+	</section>
+	<a href="#" class="backtotop"> ^ back to top ^</a> -->
+</body>
+</html>
